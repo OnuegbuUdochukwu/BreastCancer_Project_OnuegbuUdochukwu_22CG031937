@@ -1,0 +1,6 @@
+Name: Onuegbu Udochukwu
+Matric Number: 22CG031937
+Machine Learning Algorithm Used: Logistic Regression
+Model Persistence Method Used: Joblib
+Live URL of the hosted application: [INSERT_LIVE_URL_HERE] - Please deploy to Render/Streamlit/PythonAnywhere/Vercel and paste the link.
+GitHub Repository Link: [INSERT_GITHUB_LINK_HERE]
