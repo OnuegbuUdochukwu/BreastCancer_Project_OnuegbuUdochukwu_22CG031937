@@ -2,5 +2,5 @@ Name: Onuegbu Udochukwu
 Matric Number: 22CG031937
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method Used: Joblib
-Live URL of the hosted application: [INSERT_LIVE_URL_HERE] - Please deploy to Render/Streamlit/PythonAnywhere/Vercel and paste the link.
+Live URL of the hosted application: https://breastcancer-project-onuegbuudochukwu.onrender.com
 GitHub Repository Link: https://github.com/OnuegbuUdochukwu/BreastCancer_Project_OnuegbuUdochukwu_22CG031937
